@@ -1,0 +1,44 @@
+html
+{
+	background-color: #0E91A1;
+	color: white;
+} /* html */
+
+body
+{
+	border: double #146C78 20px;
+	padding: 20px;
+	background: #0E91A1;
+	color:#273952;
+} /* body */
+
+h2
+{
+	font-family: sans-serif;
+	font-size: 25pt;
+	background: #0E91A1;
+	color: #273952;
+} /* h2 */
+
+dl
+{
+	border: dashed 20px;
+	padding: 5px;
+} /* dl */
+
+dt
+{
+	background: #0E91A1;
+	color: #2C3E50;
+	font-family: fantasy;
+	font-size: 16pt;
+	letter-spacing: 1.3pt;
+} /* dt */
+
+dd
+{
+	background: #0E91A1; 
+	color: #2C3E50;
+	font-family: sans-serif;
+	word-spacing: 2pt;
+} /* p */
