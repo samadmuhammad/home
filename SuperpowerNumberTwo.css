@@ -1,0 +1,39 @@
+html
+{
+	background-color: black;
+	color:white;
+}/* html */
+img.center 
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:400px;
+	width:400px;
+}/* img.center*/
+h1
+{
+	font-family:sans-serif;
+	font-size:35pt;
+	color:white;
+	background-color:black;
+}/* h1 */
+p.fontchange
+{
+	font-family:Verdana, sans-serif;
+	color:white;
+	background-color:black;
+}/* p.fontchange */
+h2
+{
+	font-family:sans-serif;
+	font-size:20pt;
+	color:white;
+	background-color:black;
+	letter-spacing:1.5pt;
+}/* h2 */
+img
+{
+	padding: 20px;
+	border: 20px double white;
+}/* img */
